@@ -1,0 +1,3 @@
+- ![cocktailHome](https://user-images.githubusercontent.com/72084877/145718397-38f5d7c2-bc5d-4aa6-aae8-9acc1f046489.png)
+- ![cocktailSearch](https://user-images.githubusercontent.com/72084877/145718405-78c9d4ae-505e-4699-aaa8-8bd20830a442.png)
+- ![cocktailDetails](https://user-images.githubusercontent.com/72084877/145718409-88df0c02-d96f-4bf9-b59b-ef1b0029ef8c.png)
